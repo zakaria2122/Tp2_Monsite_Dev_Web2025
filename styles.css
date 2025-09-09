@@ -11,6 +11,7 @@ img{
 
 main p{
   background-color: gainsboro;
+  color: orangered;
 }
 
 main li{
@@ -21,4 +22,8 @@ main li{
 
 footer{
   border: thin solid black;
+  color:  orangered;
+}
+h1{
+  color: orangered;
 }
