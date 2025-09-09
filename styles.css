@@ -7,6 +7,8 @@ html{
 img{
   height: 10rem;
   width: auto;
+  border-radius: 15%;
+  box-shadow: 15%;
 }
 
 main p{
@@ -26,4 +28,7 @@ footer{
 }
 h1{
   color: orangered;
+}
+ul{
+  list-style: none;
 }
